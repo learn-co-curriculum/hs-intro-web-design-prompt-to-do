@@ -9,3 +9,4 @@ You will be coding your solution in `js/get-to-know-you.js`. Your job is to use 
 Once you've taken in all the information, use the `alert` function to summarize their responses and print them back out in the user.
 
 You can test your code by opening up `index.html` in the browser. You'll also want to make sure that `js/get-to-know-you.js` has been appropriately linked to `index.html`.
+<a href='https://learn.co/lessons/hs-intro-web-design-prompt-to-do' data-visibility='hidden'>View this lesson on Learn.co</a>
